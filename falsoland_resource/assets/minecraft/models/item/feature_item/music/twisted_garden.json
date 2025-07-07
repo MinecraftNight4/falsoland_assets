@@ -1,7 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "item/template_music_disc",
-	"textures": {
-		"layer0": "item/feature_item/music/twisted_garden"
-	}
-}
