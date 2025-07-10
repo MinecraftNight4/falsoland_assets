@@ -353,6 +353,19 @@
           "stream": true
         }
       ]
+    },
+    "music_disc.une_vie_a_taimer": {
+      "__use_legacy_max_distance": "true",
+      "category": "record",
+      "max_distance": 64,
+      "min_distance": null,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music_disc/une_vie_a_taimer",
+          "stream": true
+        }
+      ]
     }
   }
 }

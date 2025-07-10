@@ -1,0 +1,10 @@
+{
+    "comparator_output": 15,
+    "description": {
+        "text": "Une vie à t'aimer - [Lorien Testard · Alice Duport-Percier · Victor Borba]"
+    },
+    "length_in_seconds": 658.0,
+    "sound_event": {
+		"sound_id": "minecraft:music_disc.une_vie_a_taimer"
+	}
+}

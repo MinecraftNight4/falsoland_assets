@@ -308,5 +308,14 @@
         "attenuation_distance": 64
       }
     ]
+  },
+  "music_disc.une_vie_a_taimer": {
+    "sounds": [
+      {
+        "name": "music_disc/une_vie_a_taimer",
+        "stream": true,
+        "attenuation_distance": 64
+      }
+    ]
   }
 }
